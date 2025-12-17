@@ -1,8 +1,7 @@
 # BasicHTMLpage
-This project is a static website created using HTML and CSS.  The purpose of this project is to demonstrate how to deploy a static website using GitHub Pages.
+This project is a static website created using HTML.  The purpose of this project is to demonstrate how to deploy a static website using GitHub Pages.
 # Technologies Used
 - HTML
-- CSS
 - GitHub Pages
 # Deployment
 The website was deployed using GitHub Pages by following these steps:
